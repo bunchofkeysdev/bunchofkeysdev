@@ -1,4 +1,4 @@
-# Hi, I’m Isiavwe Oghenerukevwe Juliet (@bunchofkeydev)
+# Hi, I’m Isiavwe Juliet (@bunchofkeydev)
 
 Full-stack developer focused on building simple, reliable web apps. I learn fast and ship in small, steady steps.
 
